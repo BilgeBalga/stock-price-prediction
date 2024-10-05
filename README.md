@@ -1,4 +1,4 @@
-# 📉 Stock Price Prediction Project 📉
+# 📈 Stock Price Prediction Project 📉
 
 ## Project Overview 
 This project aims to predict whether it would be worthwhile to buy Tesla stock using machine learning techniques. I analyze historical stock data to create a predictive model that can guide investment decisions.
