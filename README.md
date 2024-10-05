@@ -11,7 +11,7 @@ This project aims to predict whether it would be worthwhile to buy Tesla stock u
 - Scikit-learn for Machine Learning Models and Preprocessing
 - XGBoost for gradient boosting
 
-## Table of Contents
+## 📕 Table of Contents
 1. **Data Loading and Exploration**: I loaded Tesla stock data from a CSV file and performed initial exploratory data analysis (EDA) to understand the dataset's structure and characteristics.
 2. **Feature Engineering**: I created new features from the existing data, including:
    - Extracting day, month, and year from the date
