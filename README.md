@@ -3,7 +3,7 @@
 ## Project Overview 
 This project aims to predict whether it would be worthwhile to buy Tesla stock using machine learning techniques. I analyze historical stock data to create a predictive model that can guide investment decisions.
 
-## Technologies Used
+## 🛠️ Technologies Used </>
 - Python
 - Pandas for Data Manipulation
 - Numpy for numerical operations
@@ -29,7 +29,7 @@ This project aims to predict whether it would be worthwhile to buy Tesla stock u
    - XGBoost Classifier
 5. **Model Evaluation**: I evaluated the models using the ROC-AUC metric on both training and validation sets.
 
-## Results
+## 🏆 Results
 The models showed varying degrees of performance:
 - Logistic Regression achieved a validation accuracy of about 54%
 - SVM performed slightly worse with a validation accuracy of about 46%
