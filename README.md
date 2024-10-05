@@ -5,10 +5,10 @@ This project aims to predict whether it would be worthwhile to buy Tesla stock u
 
 ## Technologies Used
 - Python
-- pandas for data manipulation
-- numpy for numerical operations
-- matplotlib and seaborn for data visualization
-- scikit-learn for machine learning models and preprocessing
+- Pandas for Data Manipulation
+- Numpy for numerical operations
+- Matplotlib and Seaborn for Data Visualization
+- Scikit-learn for Machine Learning Models and Preprocessing
 - XGBoost for gradient boosting
 
 ## Table of Contents
